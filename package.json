@@ -1,0 +1,22 @@
+{
+  "name": "@loco-software/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint Config used at Loco Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loco-Software/eslint-config.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Loco Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loco-Software/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Loco-Software/eslint-config#readme"
+}
