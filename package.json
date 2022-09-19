@@ -1,11 +1,8 @@
 {
   "name": "@loco-software/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint Config used at Loco Software",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Loco-Software/eslint-config.git"
