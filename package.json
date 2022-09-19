@@ -1,6 +1,6 @@
 {
   "name": "@loco-software/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "ESLint Config used at Loco Software",
   "main": "index.js",
   "repository": {
